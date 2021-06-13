@@ -1,0 +1,1 @@
+#Here you can find a python script which generates a 3D Model in blender for a Myring Submarine body with dimensions specified in Submarine.csv
