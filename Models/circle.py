@@ -4,7 +4,8 @@ import math
 import mathutils
 import csv
 
-csv_file = open('C:\\Users\\Slav Kirilov\\Desktop\\BlenderScripts\\Submarine\\Models\\Submarine.csv', newline='')
+# Make a new BMesh
+csv_file = open('path-to-file', newline='')
 submarine_data = csv.reader(csv_file, delimiter=',')
 
 for row in submarine_data:
